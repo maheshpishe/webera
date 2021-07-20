@@ -1,2 +1,2 @@
 # webera
-WEBERA
+WEBERA - A student friendly Learning Management System
